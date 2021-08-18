@@ -4,10 +4,6 @@ http://insag-uat.megabank.com.tw/MEGA/login
 http://insag-sit.megabank.com.tw/MEGA/login
 ```
 ***
-## 廠商下載source code及war資訊
-- https://mpc.b01.softbi.com/mega/war/sit/2021-08-17/
-- <font color=#FF6600>account/pwd: megauser / mega202105 </font>
-***
 ## 遠端主機在D:\\Tools底下有安裝的txt，裡面有JBOSS的密碼
 ***
 ## 部分主機還可網芳直接丟檔 
